@@ -5,7 +5,7 @@
 
 **专业的数字化解决方案提供商 | Professional Digital Solution Provider**
 
-[![Website](https://img.shields.io/badge/Website-shenmeyun.github.io-667eea?style=for-the-badge&logo=github&logoColor=white)](https://shenmeyun.github.io)
+[![Website](https://img.shields.io/badge/Website-shenmeyun.com-667eea?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://shenmeyun.com)
 [![Email](https://img.shields.io/badge/Email-contact@shenmeyun.com-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shenmeyun.com)
 [![Phone](https://img.shields.io/badge/Phone-18889396041-f093fb?style=for-the-badge&logo=phone&logoColor=white)](tel:18889396041)
 
@@ -114,7 +114,7 @@
 | 📍 **地址** | 海南省三亚市吉阳区迎宾路旅文总部港大厦10L |
 | 📞 **电话** | [18889396041](tel:18889396041) |
 | ✉️ **邮箱** | [contact@shenmeyun.com](mailto:contact@shenmeyun.com) |
-| 🌐 **官网** | [shenmeyun.github.io](https://shenmeyun.github.io) |
+| 🌐 **官网** | [shenmeyun.com](https://shenmeyun.com) |
 
 </div>
 
@@ -122,7 +122,7 @@
 
 ## 📄 备案信息 | ICP Information
 
-[![ICP备案](https://img.shields.io/badge/ICP-琼ICP备2024048013号--2-lightgrey?style=for-the-badge)](https://beian.miit.gov.cn/#/Integrated/index)
+[![ICP备案](https://img.shields.io/badge/ICP-琼ICP备2024048013号--1-lightgrey?style=for-the-badge)](https://beian.miit.gov.cn/#/Integrated/index)
 
 ---
 
