@@ -1,31 +1,143 @@
-<h1 align="center">Hi 👋, I'm liangguifeng</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liangguifeng&label=Profile%20views&color=0e75b6&style=flat" alt="liangguifeng" /> </p>
+# ☁️ 什么云科技有限公司
+## ShenMeYun Technology Co., Ltd.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liangguifeng" alt="liangguifeng" /></a> </p>
+**专业的数字化解决方案提供商 | Professional Digital Solution Provider**
 
-- 🔭 I’m currently working on [Hainan Duty Free](https://m.hltmsp.com/)
+[![Website](https://img.shields.io/badge/Website-shenmeyun.github.io-667eea?style=for-the-badge&logo=github&logoColor=white)](https://shenmeyun.github.io)
+[![Email](https://img.shields.io/badge/Email-contact@shenmeyun.com-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shenmeyun.com)
+[![Phone](https://img.shields.io/badge/Phone-18889396041-f093fb?style=for-the-badge&logo=phone&logoColor=white)](tel:18889396041)
 
-- 🌱 I’m currently learning **Rust、OpenWrt**
+---
 
-- 📝 I regularly write articles on [https://findcat.cn](https://findcat.cn)
+</div>
 
-- 💬 Ask me about **Laravel、Hyperf、Gin、K8s**
+## 🌟 关于我们 | About Us
 
-- 📫 How to reach me **1476982312@qq.com**
+什么云科技有限公司成立于**2020年**，是一家专注于为企业提供全方位数字化解决方案的科技公司。我们拥有一支由**50+技术专家**组成的专业团队，致力于通过创新的技术手段，帮助企业实现数字化转型，提升业务效率。
 
-- ⚡ Fun fact **A mediocre developer**
+**ShenMeYun Technology Co., Ltd.** was founded in **2020**, focusing on providing comprehensive digital solutions for enterprises. We have a professional team of **50+ technical experts** dedicated to helping enterprises achieve digital transformation and improve business efficiency through innovative technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/liangguifeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="liangguifeng" height="30" width="40" /></a>
-</p>
+### 📊 项目成果 | Achievements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
 
+| 指标 | 数值 |
+|:---:|:---:|
+| 🎯 **成功项目** | 500+ |
+| 👥 **合作客户** | 200+ |
+| 🧑‍💻 **技术专家** | 50+ |
+| ⭐ **客户满意度** | 98% |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangguifeng&show_icons=true&locale=en&layout=compact" alt="liangguifeng" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liangguifeng&show_icons=true&locale=en" alt="liangguifeng" /></p>
+---
+
+## 🎯 核心业务 | Core Services
+
+<div align="center">
+
+| 服务 | 描述 |
+|:---:|:---|
+| 📱 **定制化小程序开发** | 为企业量身定制微信小程序、支付宝小程序等，提供从需求分析到上线运营的全流程服务 |
+| 🌐 **AIOT业务开发** | 物联网与人工智能结合，打造智能化的业务系统，实现设备互联、数据智能分析 |
+| 💻 **企业级Web开发** | 构建高性能、高可用的企业级Web应用，包括管理系统、电商平台、SaaS产品等 |
+| ☁️ **云服务解决方案** | 提供云架构设计、云迁移、云运维等一站式云服务，助力企业上云 |
+| 📊 **大数据分析** | 基于大数据技术，提供数据采集、存储、分析和可视化服务，挖掘数据价值 |
+| 🔒 **网络安全服务** | 提供网络安全评估、防护方案设计、安全运维等服务，保障企业信息安全 |
+
+</div>
+
+---
+
+## 💼 服务优势 | Advantages
+
+<div align="center">
+
+| 优势 | 说明 |
+|:---:|:---|
+| ⚡ **快速交付** | 采用敏捷开发模式，快速迭代，确保项目按时高质量交付 |
+| 🎯 **精准定制** | 深入理解业务需求，提供量身定制的解决方案，完美匹配企业战略 |
+| 🔧 **技术领先** | 掌握前沿技术栈，采用最佳实践，确保系统稳定性和可扩展性 |
+| 🤝 **全程服务** | 从需求分析到上线运营，提供全生命周期服务支持 |
+
+</div>
+
+---
+
+## 🛠️ 技术栈 | Technology Stack
+
+### 前端技术 | Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### 后端技术 | Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 云服务与基础设施 | Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 数据技术 | Data Technology
+![Big Data](https://img.shields.io/badge/Big_Data-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+---
+
+## 📈 发展历程 | Development History
+
+- **2020** - 公司成立，专注于Web开发和小程序开发
+- **2021** - 拓展AIOT业务，成立AI技术团队
+- **2022** - 获得高新技术企业认证，客户数突破100家
+- **2023** - 推出云服务解决方案，成立上海分公司
+- **2024** - 业务覆盖全国，服务200+企业，团队规模达50+人
+
+---
+
+## 📞 联系我们 | Contact Us
+
+<div align="center">
+
+| 联系方式 | 信息 |
+|:---:|:---|
+| 📍 **地址** | 海南省三亚市吉阳区迎宾路旅文总部港大厦10L |
+| 📞 **电话** | [18889396041](tel:18889396041) |
+| ✉️ **邮箱** | [contact@shenmeyun.com](mailto:contact@shenmeyun.com) |
+| 🌐 **官网** | [shenmeyun.github.io](https://shenmeyun.github.io) |
+
+</div>
+
+---
+
+## 📄 备案信息 | ICP Information
+
+[![ICP备案](https://img.shields.io/badge/ICP-琼ICP备2024048013号--2-lightgrey?style=for-the-badge)](https://beian.miit.gov.cn/#/Integrated/index)
+
+---
+
+<div align="center">
+
+### 💡 用技术创新驱动商业变革
+### 💡 Driving Business Transformation Through Technological Innovation
+
+**Made with ❤️ by [什么云科技](https://github.com/shenmeyun)**
+
+[![GitHub](https://img.shields.io/github/followers/shenmeyun?label=Follow&style=social&logo=github)](https://github.com/shenmeyun)
+[![Stars](https://img.shields.io/github/stars/shenmeyun?label=Stars&style=social&logo=github)](https://github.com/shenmeyun)
+
+---
+
+**© 2024 什么云科技有限公司. All Rights Reserved.**
+
+</div>
